@@ -7,10 +7,10 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("TagLib.NetStandard")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Fork from https://github.com/timheuer/taglib-sharp-portable to support NetStandard 1.4")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TagLib.NetStandard")]
+[assembly: AssemblyProduct("Taglib-Sharp-NetStandard")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
